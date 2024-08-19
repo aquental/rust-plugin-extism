@@ -25,5 +25,5 @@ cargo build --target wasm32-unknown-unknown
 ### run the sample
 
 ```shell
-extism call target/wasm32-unknown-unknown/debug/rust_pdk_template.wasm greet --input "Benjamin"
+extism call target/wasm32-unknown-unknown/debug/rust_pdk_template.wasm greet --input "Antonio"
 ```
