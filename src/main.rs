@@ -10,4 +10,6 @@ fn main() {
         .call::<&str, &str>("count_vowels", "Hello, world!")
         .unwrap();
     println!("{}\n", res);
+
+    
 }
